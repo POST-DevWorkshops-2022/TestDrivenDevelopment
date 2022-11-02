@@ -3,9 +3,12 @@
 
 Create a simple String calculator with a method: int add(String numbers).
 
-Think about the design first
+Think about the design first.
+
 Write down a list of examples and discuss them with the group
+
 Start with the simple features first
+
 Clone the repository for an initial setup of your environment
 
 # Feature 1
