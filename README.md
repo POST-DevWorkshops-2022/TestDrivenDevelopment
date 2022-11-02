@@ -6,7 +6,7 @@ Create a simple String calculator with a method: int add(String numbers).
 Think about the design first
 Write down a list of examples and discuss them with the group
 Start with the simple features first
-Clone the repository “11-TDD” for an initial setup of your environment
+Clone the repository for an initial setup of your environment
 
 # Feature 1
 Provide two default delimiters for separating the numbers: , or \n
